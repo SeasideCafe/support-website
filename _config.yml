@@ -1,0 +1,24 @@
+title: Seaside Cafe Support
+description: The support website for Seaside Cafe.
+baseurl: "/support-website"
+url: "https://seasidecafe.github.io/support-website/"
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+aux_links:
+  "Group":
+    - "https://web.roblox.com/groups/9740012/Aesthetic-Potatoes#!/about"
+  "Game":
+    - "https://seasidecafe.github.io/support-website/"
+  "Training Centre":
+    - "https://seasidecafe.github.io/support-website/"
+  "Quiz Centre":
+    - "https://seasidecafe.github.io/support-website/"
+
+color_scheme: dark
+
+remote_theme: just-the-docs/just-the-docs
